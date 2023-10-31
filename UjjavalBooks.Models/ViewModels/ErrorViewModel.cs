@@ -1,6 +1,6 @@
 using System;
 
-namespace UjjavalBookStore.Models
+namespace UjjavalBookStore.Models.ViewModels
 {
     public class ErrorViewModel
     {

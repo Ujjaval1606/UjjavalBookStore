@@ -6,9 +6,11 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using UjjavalBookStore.Models;
+using UjjavalBookStore.Models.ViewModels;
 
-namespace UjjavalBookStore.Controllers
+namespace UjjavalBookStore.Area.Customer.Controllers
 {
+    [Area("Customer")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
