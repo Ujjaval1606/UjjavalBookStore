@@ -106,5 +106,5 @@ Modified CategoryRepository
 Modify ICategoryRepository interface and made changes according to the slides.
 1248
 Created new ISP_Call and SP_Call in respective folder and installed new package Dapper in ISP_Call.cs and made necessary statement with using statment.
-
-
+1332
+Created new controller in admin and updated _Layout.cshtml to the Dropdown

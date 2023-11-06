@@ -11,6 +11,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using UjjavalBooks.DataAccess.Repository;
+using UjjavalBooks.DataAccess.Repository.IRepository;
 using UjjavalBookStore.DataAccess.Data;
 
 namespace UjjavalBookStore
@@ -34,6 +36,7 @@ namespace UjjavalBookStore
 
             services.AddDefaultIdentity<IdentityUser>()//remove options => options.SignIn.RequireConfirmedAccount = true
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddControllersWithViews();
         }
 
