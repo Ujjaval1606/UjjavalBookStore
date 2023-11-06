@@ -84,3 +84,13 @@ tested it and runs perfectly.
 
 1311
 Final commit
+
+2023-11-06
+1152
+Review appsettings.json and upated the connection string
+1204
+Used the NuGet Package Manager Console to add the migration 
+1210
+Added a new class file to the .Models project and modify
+1211
+Updated ApplicationDbContext.cs and added using statement, Re-ran the add-migration and reviewed the changes to the AddCategoryToDb.
