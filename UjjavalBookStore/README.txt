@@ -98,3 +98,13 @@ Updated ApplicationDbContext.cs and added using statement, Re-ran the add-migrat
 Created new folders Repository and IRepository in .DataAccess Project and Created new IRepository.cs file in same folder
 1225
 Added new Repository and modify it from BlackBoard File that was given.
+1232
+Create individual repos for category 
+CategoryRepository.cs
+ICategoryRepository.cs
+Modified CategoryRepository 
+Modify ICategoryRepository interface and made changes according to the slides.
+1248
+Created new ISP_Call and SP_Call in respective folder and installed new package Dapper in ISP_Call.cs and made necessary statement with using statment.
+
+
