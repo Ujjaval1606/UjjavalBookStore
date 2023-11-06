@@ -84,3 +84,23 @@ tested it and runs perfectly.
 
 1311
 Final commit
+
+2023-11-06
+1152
+Review appsettings.json and upated the connection string
+1204
+Used the NuGet Package Manager Console to add the migration 
+1210
+Added a new class file to the .Models project and modify
+1211
+Updated ApplicationDbContext.cs and added using statement, Re-ran the add-migration and reviewed the changes to the AddCategoryToDb.
+1218
+Created new folders Repository and IRepository in .DataAccess Project and Created new IRepository.cs file in same folder
+1225
+Added new Repository and modify it from BlackBoard File that was given.
+1232
+Create individual repos for category 
+CategoryRepository.cs
+ICategoryRepository.cs
+Modified CategoryRepository 
+Modify ICategoryRepository interface and made changes according to the slides.
