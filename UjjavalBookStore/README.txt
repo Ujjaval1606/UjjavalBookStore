@@ -36,25 +36,26 @@ From the blackborad in CSS_JS.txt pasted the all css link and js link in layout 
 1620
 Made commit but some files where no visible in github prefered ppt again nad came to knew I enabled place solution and project in the same directory by mistake.
 
+
 2023-10-31
 
 1215
 deleted the old repository and started new project by following the same steps till editing the _Layout file.
 
 1217
-created the dropdown menu and named it to content management
+created the dropdown menu and named it to content management.
 
 1219
-created 3 projects as shown in ppt
+created 3 projects as shown in ppt.
 
 1222
-moved data folder to UjjavalBooks.DataAccess
+moved data folder to UjjavalBooks.DataAccess.
 
 1225
-installed the required packages in nuget packages for solution
+installed the required packages in nuget packages for solution.
 
 1231
-deleted the migration folder
+deleted the migration folder.
 
 1237
 deleted the default class from projects.
@@ -63,18 +64,18 @@ deleted the default class from projects.
 moved the models folder to UjjavalBooks.Models
 
 1244
-solving the errors
+solving the errors.
 1246
-error solved
+error solved.
 
 1247
-created SD class in UjjavalBooks.Utility and edited it
+created SD class in UjjavalBooks.Utility and edited it.
 
 1251
-created new area named Customer
+created new area named Customer.
 
 1259
-Updated the customer area
+Updated the customer area.
 
 1303
 created new area Admin and moved the required files.
@@ -83,32 +84,52 @@ created new area Admin and moved the required files.
 tested it and runs perfectly.
 
 1311
-Final commit
+Final commit/
+
 
 2023-11-06
 1152
-Review appsettings.json and upated the connection string
+Review appsettings.json and upated the connection string.
+
 1204
-Used the NuGet Package Manager Console to add the migration 
+Used the NuGet Package Manager Console to add the migration.
+
 1210
-Added a new class file to the .Models project and modify
+Added a new class file to the .Models project and modify.
+
 1211
 Updated ApplicationDbContext.cs and added using statement, Re-ran the add-migration and reviewed the changes to the AddCategoryToDb.
+
 1218
-Created new folders Repository and IRepository in .DataAccess Project and Created new IRepository.cs file in same folder
+Created new folders Repository and IRepository in .DataAccess Project and Created new IRepository.cs file in same folder.
+
 1225
 Added new Repository and modify it from BlackBoard File that was given.
+
 1232
 Create individual repos for category 
 CategoryRepository.cs
 ICategoryRepository.cs
 Modified CategoryRepository 
 Modify ICategoryRepository interface and made changes according to the slides.
+
 1248
 Created new ISP_Call and SP_Call in respective folder and installed new package Dapper in ISP_Call.cs and made necessary statement with using statment.
+
 1332
-Created new controller in admin and updated _Layout.cshtml to the Dropdown
+Created new controller in admin and updated _Layout.cshtml to the Dropdown.
+
 1423
-Added the partial view and check the output
+Added the partial view and check the output.
+
 1455
-completed all step and run successfully
+completed all step and run successfully.
+
+1458
+Was only not able to delete.
+
+19:13
+I didn't leave the space in line 23 in category.js so the delete button was not working. 
+
+19:16
+Final commit.
