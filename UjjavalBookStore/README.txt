@@ -178,4 +178,8 @@ Added Product in ApplicationDbContext.cs
 1151
 Added migration 20231120164813_addProductToDb.cs in .DataAccess project and updated database
 
+1153
+Reviewed SOE to view product table, mentioned fields are already required.
 
+1156
+Ran migration 20231120165617_addValidationToProduct.cs and updated database
