@@ -165,3 +165,17 @@ Created CoverType folder in Views of Admin area. Added Index and Upsert view in 
 
 1138
 Added coverType.js js folders in wwwroot
+
+1140
+Tested CoverType in output, worked successfullly
+
+1144
+Created new Product class in .Models Project
+
+1148
+Added Product in ApplicationDbContext.cs 
+
+1151
+Added migration 20231120164813_addProductToDb.cs in .DataAccess project and updated database
+
+
