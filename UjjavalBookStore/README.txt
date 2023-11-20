@@ -200,4 +200,11 @@ Installed Microsoft.AspNetCore.Mvc.ViewFeatures package for SelectlistItem error
 1220
 Commented out Upsert post method 
 
+1225
+Added index view to Product in Admin area's Views folder
 
+1229
+Created product.js by modifying category.js code
+
+1232
+Added Product view to navbar by modifying _Layout.cshtml
