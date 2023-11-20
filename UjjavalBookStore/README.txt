@@ -142,4 +142,15 @@ Cloned Repository and Started Part-III Section 1
 1058
 Added new CoverType.cs in Model's folder and added ID and Name Model's folder.
 
+1100
+Created new CovertypeRepository class in Repository folder and interface ICovertypeRepository in IRepository folder.
+
+1104
+Added Covertype to ApplicationDbContext.cs
+
+1108
+Added Covertype to UnitOfWork and IUnitOfWork
+
+1111
+Added new migration 20231120161056_addCoverType.cs in .DataAccess project.
 
