@@ -132,4 +132,14 @@ Was only not able to delete.
 I didn't leave the space in line 23 in category.js so the delete button was not working. 
 
 19:16
-Final commit.
+Final commit
+
+11-20-2023
+
+1057
+Cloned Repository and Started Part-III Section 1 
+
+1058
+Added new CoverType.cs in Model's folder and added ID and Name Model's folder.
+
+
