@@ -190,4 +190,14 @@ Added new ProductRepository class and IProductRepository inteface
 1203
 Added Product to UnitOfWork and IUnitOfWork
 
+1215
+Created new ProductController in Admin Area and added the given code from PPT
+
+1218
+Created new View Model ProductVM in .Models Project
+Installed Microsoft.AspNetCore.Mvc.ViewFeatures package for SelectlistItem error
+
+1220
+Commented out Upsert post method 
+
 
