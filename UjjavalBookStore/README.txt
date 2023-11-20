@@ -183,3 +183,11 @@ Reviewed SOE to view product table, mentioned fields are already required.
 
 1156
 Ran migration 20231120165617_addValidationToProduct.cs and updated database
+
+1201
+Added new ProductRepository class and IProductRepository inteface 
+
+1203
+Added Product to UnitOfWork and IUnitOfWork
+
+
