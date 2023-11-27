@@ -208,3 +208,25 @@ Created product.js by modifying category.js code
 
 1232
 Added Product view to navbar by modifying _Layout.cshtml
+
+2023-11-27
+1100
+Cloned repository to complete section-3
+
+1104
+Created Account on tiny.cloud and copied script code form it.
+
+1106
+Created Upsert.cshtml view in product in admin area . added code in it from provided files
+
+1108
+uncommented upsert post method from productcontroller
+
+1112
+craeted images>products folder in wwwroot
+
+1115
+Modified code in product.cs and updated database
+
+1119
+Part-3 section-3 completed

@@ -1,10 +1,13 @@
 ﻿using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using UjjavalBooks.DataAccess.Repository.IRepository;
+using UjjavalBooks.Models;
+using UjjavalBooks.Models.ViewModels;
 
 namespace UjjavalBookStore.Areas.Admin.Controllers
 {
@@ -24,7 +27,7 @@ namespace UjjavalBookStore.Areas.Admin.Controllers
             return View();
         }
 
-        /*  public IActionResult Upsert(int? id)
+       public IActionResult Upsert(int? id)
           {
               ProductVM productVM = new ProductVM()
               {
@@ -50,7 +53,7 @@ namespace UjjavalBookStore.Areas.Admin.Controllers
                   return NotFound();
               }
               return View(productVM);
-          } */
+          } 
         //API calls here
         #region API CALLS
         [HttpGet]
