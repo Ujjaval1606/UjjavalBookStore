@@ -230,3 +230,24 @@ Modified code in product.cs and updated database
 
 1119
 Part-3 section-3 completed
+
+
+2023-11-28
+1118
+added new miugration for product
+20231128161757_newProduct
+
+1123
+changes index page of home
+
+1128
+changed the home controller using your provided repository
+
+1130
+added 1 line in startup.cs
+
+1132
+image was still not showing so i made changes in product controller
+
+1134
+it works perfectly  i will commit to github  
