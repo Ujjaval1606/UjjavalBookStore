@@ -251,3 +251,8 @@ image was still not showing so i made changes in product controller
 
 1134
 it works perfectly  i will commit to github  
+
+2023-12-05
+1418
+Modified README.md by adding project description
+Cloned repository, added 3 new images to make 3 auto-generated images, ran application and added 3 products, worked perfectly.
